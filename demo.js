@@ -7,4 +7,3 @@ function simpleLoop() {
 // tarnish();
 throw new Error("ORA!");
 simpleLoop();
-dfsd();
